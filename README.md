@@ -2,9 +2,9 @@
 
 [Writing is thinking](https://alistapart.com/article/writing-is-thinking/). [Thinking is learning](http://worrydream.com/#!/LearnableProgramming). [Learning is doing](https://blog.ncase.me/curse-of-the-chocolate-covered-broccoli-or-emotion-in-learning/) 
 
-_Thinking in Code_ is a curated collection of VS Code extensions, which seeks to provide a <ins>learning environment</ins> that can improve the comprehension & interactivity of code, support the management of code-centric "knowledge bases" / [digital gardens](https://maggieappleton.com/garden-history/), and help developers "think better" as part of their daily routine. Maybe, just maybe, it can help make your development experience more fun 🎡 🎢 🎆
+_Thinking in Code_ is a curated set of VS Code extensions, which collectively seek to provide a <ins>learning environment</ins> that can improve the comprehension & interactivity of code, support the management of code-centric "knowledge bases" / [digital gardens](https://maggieappleton.com/garden-history/), and help developers "think better" as part of their daily routine. Maybe, just maybe, it can help make your development experience more fun 🎢 
 
-> ⏰ [Office Hours](https://calendly.com/lostintangent): If you'd like to chat about any of the stuff below, feel free to [setup some time with me]((https://calendly.com/lostintangent)). We can discuss feedback, questions, how others are using them, or anything in between 🙌
+> ⏰ [Office Hours](https://calendly.com/lostintangent): If you'd like to chat about any of the stuff below, then please don't hesitste to reach out. We can discuss feedback, questions, how others are using them, or anything in between.
 
 | Included extension | How can it help? |
 |-|-|
@@ -15,7 +15,7 @@ _Thinking in Code_ is a curated collection of VS Code extensions, which seeks to
 
 ## 🧑‍🤝‍🧑 Collaborative by Default
 
-While thinking requires focus, learning can benefit from collaboration with others. As a result, every extension in this collection is collaborative by default, and provides a rich integration with [Live Share](https://aka.ms/vsls). This makes it easy to extend your learning environment to others, and make the writing/thinking experiences a part of your [collaborative workflows](https//aka.ms/vsls-usecases). 
+While thinking requires focus, learning can benefit from collaboration with others. As a result, every extension in this collection is collaborative by default, and provides a rich integration with [Live Share](https://aka.ms/vsls). This makes it easy to extend your learning environment to others, and make the writing/thinking experiences a part of your [collaborative workflows](https://aka.ms/vsls-usecases). 
 
 | Extension | Collaborative experience |
 |-|-|
