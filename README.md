@@ -1,6 +1,6 @@
 # 🧠 Thinking in Code
 
-[Writing is thinking](https://alistapart.com/article/writing-is-thinking/). [Thinking is learning](http://worrydream.com/#!/LearnableProgramming). [Learning is doing](https://blog.ncase.me/curse-of-the-chocolate-covered-broccoli-or-emotion-in-learning/) 
+<ins>Premise:</ins> [Writing is thinking](https://alistapart.com/article/writing-is-thinking/). [Thinking is learning](http://worrydream.com/#!/LearnableProgramming). [Learning is doing](https://blog.ncase.me/curse-of-the-chocolate-covered-broccoli-or-emotion-in-learning/) 
 
 _Thinking in Code_ is a curated set of VS Code extensions, which collectively seek to provide a <ins>learning environment</ins> that can improve the comprehension & interactivity of code, support the management of code-centric "knowledge bases" / [digital gardens](https://maggieappleton.com/garden-history/), and help developers "think better" as part of their daily routine. Maybe, just maybe, it can help make your development experience more fun 🎢 
 
@@ -13,7 +13,7 @@ _Thinking in Code_ is a curated set of VS Code extensions, which collectively se
 | 📘 [GistPad](https://aka.ms/gistpad) - Manage and access developer notes and code snippets, stored as GitHub Gists and repos. <br /><a href="https://user-images.githubusercontent.com/116461/87234714-96ba9400-c388-11ea-92c3-544d9a3bb633.png"><img width="400px" src="https://user-images.githubusercontent.com/116461/87234714-96ba9400-c388-11ea-92c3-544d9a3bb633.png" /></a> | <ol><li>Allows you to capture todos, journals and [daily notes](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs#scratch-notes), so you can stay organized from your editor</li><li>Supports [Roam/Obsidian-like wikis](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs#wikis), including `[[references]]` and `#tags`</li><li>Easily store and access code snippets, to surpercharge your workflow</li><li>Review and commment on gists and repos via [editor-integrated commenting](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs#gist-commenting)</ol> |
 | 📄 [GitDoc](https://aka.ms/gitdoc) - Edit a local Git repo like a multi-file, versioned document.<br /><br /><a href="https://user-images.githubusercontent.com/116461/79521572-5a3bfe00-800e-11ea-83a0-8e125122fa8f.gif"><img width="400px" src="https://user-images.githubusercontent.com/116461/79521572-5a3bfe00-800e-11ea-83a0-8e125122fa8f.gif" /></a>  | <ol><li>Auto-commit your changes, and never think about the Git CLI again</li><li>Restore, undo and squash versions via a simple-to-use GUI</li><li>Perfect for docs repo, your README profile, wikis, etc.</ol> |
 
-## 🧑‍🤝‍🧑 [Think Different](https://en.m.wikipedia.org/wiki/Think_different)
+## 🧑‍🤝‍🧑 [Think Different](https://en.m.wikipedia.org/wiki/Think_different), [But Together](http://aka.ms/vsls-why)
 
 While thinking requires focus, learning can benefit from collaboration with others. As a result, every extension in this collection is collaborative by default, and provides rich integration with [Live Share](https://aka.ms/vsls) (real-time co-editing and debugging for VS Code). This makes it easy to incorporate these writing/thinking experiences into your existing [collaborative workflows](https://aka.ms/vsls-usecases). 
 
