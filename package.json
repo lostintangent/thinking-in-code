@@ -4,7 +4,7 @@
     "publisher": "lostintangent",
     "description": "Collection of extensions to enable a richer environment for thinking and learning about code.",
     "icon": "icon.png",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "repository": {
         "type": "git",
         "url": "https://github.com/lostintangent/thinking-in-code"      
