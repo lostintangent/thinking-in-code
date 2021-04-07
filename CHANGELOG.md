@@ -1,3 +1,7 @@
+## v0.0.7 (04/07/2021)
+
+- Added the [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) extension to the pack 📊
+
 ## v0.0.6 (03/21/2021)
 
 - Added Twitter links for the "inception" of each project within the pack
