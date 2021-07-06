@@ -1,3 +1,7 @@
+## v0.0.8 (07/06/2021)
+
+- Correctly set the extension kind
+
 ## v0.0.7 (04/07/2021)
 
 - Added the [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) extension to the pack 📊

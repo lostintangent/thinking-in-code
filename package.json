@@ -15,6 +15,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "extensionKind": ["web", "ui", "workspace"],
     "keywords": [
         "learning",
         "gist",
