@@ -4,7 +4,7 @@
     "publisher": "lostintangent",
     "description": "Collection of extensions to enable a richer environment for thinking and learning about code.",
     "icon": "icon.png",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "repository": {
         "type": "git",
         "url": "https://github.com/lostintangent/thinking-in-code"      
@@ -25,9 +25,7 @@
     "extensionPack": [
         "vsls-contrib.codetour",
         "vsls-contrib.gistfs",
-        "vsls-contrib.gitdoc",
-        "codespaces-contrib.codeswing",
-        "hediet.vscode-drawio"
+        "codespaces-contrib.codeswing"
     ],
     "devDependencies": {
         "vsce": "^1.87.0"

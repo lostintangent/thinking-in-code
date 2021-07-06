@@ -1,3 +1,7 @@
+## v0.0.9 (07/06/2021)
+
+- Removed GitDoc and Drawio as child dependencies
+
 ## v0.0.8 (07/06/2021)
 
 - Correctly set the extension kind
