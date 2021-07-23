@@ -1,3 +1,7 @@
+## v0.0.10 (07/23/2021)
+
+- Reintroducing Drawio as a child dependency
+
 ## v0.0.9 (07/06/2021)
 
 - Removed GitDoc and Drawio as child dependencies

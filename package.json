@@ -4,10 +4,10 @@
     "publisher": "lostintangent",
     "description": "Collection of extensions to enable a richer environment for thinking and learning about code.",
     "icon": "icon.png",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lostintangent/thinking-in-code"      
+        "url": "https://github.com/lostintangent/thinking-in-code"
     },
     "engines": {
         "vscode": "^1.51.0"
@@ -15,7 +15,11 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionKind": ["web", "ui", "workspace"],
+    "extensionKind": [
+        "web",
+        "ui",
+        "workspace"
+    ],
     "keywords": [
         "learning",
         "gist",
@@ -25,10 +29,11 @@
     "extensionPack": [
         "vsls-contrib.codetour",
         "vsls-contrib.gistfs",
-        "codespaces-contrib.codeswing"
+        "codespaces-contrib.codeswing",
+        "hediet.vscode-drawio"
     ],
     "devDependencies": {
-        "vsce": "^1.87.0"
+        "vsce": "^1.95.0"
     },
     "scripts": {
         "package": "vsce package"
