@@ -2,9 +2,9 @@
     "name": "thinking-in-code",
     "displayName": "Thinking in Code",
     "publisher": "lostintangent",
-    "description": "Collection of extensions to enable a richer environment for thinking and learning about code.",
+    "description": "Collection of extensions to enable a richer environment for writing, thinking, and learning about code.",
     "icon": "icon.png",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "repository": {
         "type": "git",
         "url": "https://github.com/lostintangent/thinking-in-code"
@@ -30,7 +30,8 @@
         "vsls-contrib.codetour",
         "vsls-contrib.gistfs",
         "codespaces-contrib.codeswing",
-        "hediet.vscode-drawio"
+        "hediet.vscode-drawio",
+        "lostintangent.wikilens"
     ],
     "devDependencies": {
         "vsce": "^1.95.0"

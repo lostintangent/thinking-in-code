@@ -1,3 +1,7 @@
+## v0.0.11 (08/22/2021)
+
+- Adding [WikiLens](https://aka.ms/wikilens) as a new dependency
+
 ## v0.0.10 (07/23/2021)
 
 - Reintroducing Drawio as a child dependency
