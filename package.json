@@ -16,7 +16,6 @@
         "Extension Packs"
     ],
     "extensionKind": [
-        "web",
         "ui",
         "workspace"
     ],
